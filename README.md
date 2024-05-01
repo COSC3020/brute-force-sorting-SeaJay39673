@@ -21,3 +21,11 @@ randomly without memory instead of systematically trying them?
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. Add your answer to this markdown file.
+
+### Answer:
+
+Not in your class, I just really like algorithms and want the approval.
+
+This is an iterative, in place, permutation sort.
+
+Time complexity is $\mathcal{O}(n\cdot n!)$
